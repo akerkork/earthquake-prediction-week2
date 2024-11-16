@@ -70,6 +70,7 @@ For this week's task, I have trained and compared performance of different machi
 | 4         | 0.00          | 0.00       | 0.00         | 309         |
 | 5         | 0.17          | 0.04       | 0.07         | 580         |
 | 6         | 0.00          | 0.00       | 0.00         | 202         |
+![cb](https://github.com/user-attachments/assets/e82a2401-be03-483a-8eb2-2a9ccfffa76d)
 
 ---
 
@@ -84,6 +85,7 @@ For this week's task, I have trained and compared performance of different machi
 | 4         | 0.00          | 0.00       | 0.00         | 309         |
 | 5         | 0.28          | 0.08       | 0.13         | 580         |
 | 6         | 0.00          | 0.00       | 0.00         | 202         |
+![lgbm](https://github.com/user-attachments/assets/82b2c635-af01-4ba3-89d3-4e5a7706b534)
 
 ---
 
@@ -98,6 +100,7 @@ For this week's task, I have trained and compared performance of different machi
 | 4         | 0.08          | 0.08       | 0.08         | 309         |
 | 5         | 0.00          | 0.00       | 0.00         | 580         |
 | 6         | 0.00          | 0.00       | 0.00         | 202         |
+![cb](https://github.com/user-attachments/assets/e82a2401-be03-483a-8eb2-2a9ccfffa76d)
 
 ---
 
@@ -112,6 +115,7 @@ For this week's task, I have trained and compared performance of different machi
 | 4         | 0.01          | 0.01       | 0.01         | 309         |
 | 5         | 0.30          | 0.05       | 0.09         | 580         |
 | 6         | 0.00          | 0.00       | 0.00         | 202         |
+![randomforest](https://github.com/user-attachments/assets/7c957586-1c39-4070-8531-484a1c003ca9)
 
 ---
 
@@ -126,6 +130,7 @@ For this week's task, I have trained and compared performance of different machi
 | 4         | 0.00          | 0.00       | 0.00         | 309         |
 | 5         | 0.22          | 0.07       | 0.11         | 580         |
 | 6         | 0.00          | 0.00       | 0.00         | 202         |
+![randomforest](https://github.com/user-attachments/assets/1bb4c1ce-2822-4180-a9d6-c9e57df53069)
 
 ---
 
@@ -140,6 +145,9 @@ For this week's task, I have trained and compared performance of different machi
 | 4         | 0.06          | 0.07       | 0.07         | 309         |
 | 5         | 0.19          | 0.10       | 0.13         | 580         |
 | 6         | 0.00          | 0.00       | 0.00         | 202         |
+![nn](https://github.com/user-attachments/assets/a22d13fa-3dba-44df-829c-5835d261004b)
+![nn](https://github.com/user-attachments/assets/74187bd0-8236-422f-ad44-020ceeeda0bd)
+
 
 ---
 
@@ -147,9 +155,11 @@ For this week's task, I have trained and compared performance of different machi
 
 ### **1. Random Class Model**
 - **Accuracy:** 16.44%
+![randomclass](https://github.com/user-attachments/assets/cec7f5f2-22e5-46ed-84ac-468f1225d190)
 
 ### **2. Majority Class Model**
 - **Accuracy:** 21.30%
+![nn](https://github.com/user-attachments/assets/982c10b0-17a3-4e97-b3c4-ba9ae648e82c)
 
 ---
 
@@ -161,3 +171,5 @@ The models consistently perform poorly on classes 4, 5, and 6. This suggests a c
 XGBoost and LightGBM achieve the highest accuracy (~31%), showing better performance in predicting the majority classes.
 
 Despite using different hyperparameters, the models' performance did not significantly improve. This suggests that hyperparameter tuning alone may not be sufficient to enhance model performance.
+
+
