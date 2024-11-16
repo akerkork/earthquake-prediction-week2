@@ -70,9 +70,9 @@ For this week's task, I have trained and compared performance of different machi
 | 4         | 0.00          | 0.00       | 0.00         | 309         |
 | 5         | 0.17          | 0.04       | 0.07         | 580         |
 | 6         | 0.00          | 0.00       | 0.00         | 202         |
-![cb](https://github.com/user-attachments/assets/e82a2401-be03-483a-8eb2-2a9ccfffa76d)
 
 ---
+![cb](https://github.com/user-attachments/assets/e82a2401-be03-483a-8eb2-2a9ccfffa76d)
 
 ### **2. LightGBM Classifier**
 - **Accuracy:** 30.76%
@@ -85,9 +85,9 @@ For this week's task, I have trained and compared performance of different machi
 | 4         | 0.00          | 0.00       | 0.00         | 309         |
 | 5         | 0.28          | 0.08       | 0.13         | 580         |
 | 6         | 0.00          | 0.00       | 0.00         | 202         |
-![lgbm](https://github.com/user-attachments/assets/82b2c635-af01-4ba3-89d3-4e5a7706b534)
 
 ---
+![lgbm](https://github.com/user-attachments/assets/82b2c635-af01-4ba3-89d3-4e5a7706b534)
 
 ### **3. Logistic Regression**
 - **Accuracy:** 21.74%
@@ -100,9 +100,9 @@ For this week's task, I have trained and compared performance of different machi
 | 4         | 0.08          | 0.08       | 0.08         | 309         |
 | 5         | 0.00          | 0.00       | 0.00         | 580         |
 | 6         | 0.00          | 0.00       | 0.00         | 202         |
-![cb](https://github.com/user-attachments/assets/e82a2401-be03-483a-8eb2-2a9ccfffa76d)
 
 ---
+![cb](https://github.com/user-attachments/assets/e82a2401-be03-483a-8eb2-2a9ccfffa76d)
 
 ### **4. Random Forest Classifier**
 - **Accuracy:** 29.92%
@@ -115,9 +115,9 @@ For this week's task, I have trained and compared performance of different machi
 | 4         | 0.01          | 0.01       | 0.01         | 309         |
 | 5         | 0.30          | 0.05       | 0.09         | 580         |
 | 6         | 0.00          | 0.00       | 0.00         | 202         |
-![randomforest](https://github.com/user-attachments/assets/7c957586-1c39-4070-8531-484a1c003ca9)
 
 ---
+![randomforest](https://github.com/user-attachments/assets/7c957586-1c39-4070-8531-484a1c003ca9)
 
 ### **5. XGBoost Classifier**
 - **Accuracy:** 30.87%
@@ -145,12 +145,10 @@ For this week's task, I have trained and compared performance of different machi
 | 4         | 0.06          | 0.07       | 0.07         | 309         |
 | 5         | 0.19          | 0.10       | 0.13         | 580         |
 | 6         | 0.00          | 0.00       | 0.00         | 202         |
-![nn](https://github.com/user-attachments/assets/a22d13fa-3dba-44df-829c-5835d261004b)
-![nn](https://github.com/user-attachments/assets/74187bd0-8236-422f-ad44-020ceeeda0bd)
-
 
 ---
-
+![nn](https://github.com/user-attachments/assets/a22d13fa-3dba-44df-829c-5835d261004b)
+![nn](https://github.com/user-attachments/assets/74187bd0-8236-422f-ad44-020ceeeda0bd)
 ## **Baseline Models**
 
 ### **1. Random Class Model**
