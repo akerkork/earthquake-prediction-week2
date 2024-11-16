@@ -102,7 +102,7 @@ For this week's task, I have trained and compared performance of different machi
 | 6         | 0.00          | 0.00       | 0.00         | 202         |
 
 ---
-![cb](https://github.com/user-attachments/assets/e82a2401-be03-483a-8eb2-2a9ccfffa76d)
+![logreg](https://github.com/user-attachments/assets/b8d701e6-1c09-48e9-bb43-846c7cafaac2)
 
 ### **4. Random Forest Classifier**
 - **Accuracy:** 29.92%
@@ -130,9 +130,9 @@ For this week's task, I have trained and compared performance of different machi
 | 4         | 0.00          | 0.00       | 0.00         | 309         |
 | 5         | 0.22          | 0.07       | 0.11         | 580         |
 | 6         | 0.00          | 0.00       | 0.00         | 202         |
-![randomforest](https://github.com/user-attachments/assets/1bb4c1ce-2822-4180-a9d6-c9e57df53069)
 
 ---
+![xgboost](https://github.com/user-attachments/assets/90cad3b2-dabb-443d-baec-fb0078027c32)
 
 ### **6. Neural Network**
 - **Validation Accuracy:** 25.05%
@@ -148,7 +148,8 @@ For this week's task, I have trained and compared performance of different machi
 
 ---
 ![nn](https://github.com/user-attachments/assets/a22d13fa-3dba-44df-829c-5835d261004b)
-![nn](https://github.com/user-attachments/assets/74187bd0-8236-422f-ad44-020ceeeda0bd)
+![nnplot](https://github.com/user-attachments/assets/20a555f2-76ca-4e89-a280-0eaf67d08d86)
+
 ## **Baseline Models**
 
 ### **1. Random Class Model**
@@ -157,7 +158,7 @@ For this week's task, I have trained and compared performance of different machi
 
 ### **2. Majority Class Model**
 - **Accuracy:** 21.30%
-![nn](https://github.com/user-attachments/assets/982c10b0-17a3-4e97-b3c4-ba9ae648e82c)
+![majority](https://github.com/user-attachments/assets/bfbe5aab-4d4d-4646-8e86-ce1638db2245)
 
 ---
 
