@@ -1,4 +1,4 @@
-# Earthquake Prediction - Task 2 - Abdülkerim Korkmaz
+# Earthquake Prediction - Week 2 - Abdülkerim Korkmaz
 
 For this week's task, I have trained and compared performance of different machine learning models with not using random split in earthquake data. Majority Class Model and Random Class Model are also included to assess whether the predictive models have learned meaningful patterns from the data.
 
